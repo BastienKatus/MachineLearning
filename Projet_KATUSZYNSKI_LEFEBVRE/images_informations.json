@@ -1,611 +1,819 @@
 [
     {
-        "filename": "img_Kairo BW 1.jpg",
+        "filename": "img_Innenstadt Leipzig mit Thomaskirche von Panorama Tower 2013.jpg",
         "size": [
-            4901,
-            2536
+            4894,
+            3264
         ],
         "heigth": null,
         "width": null,
-        "format": "JPEG",
-        "orientation": null,
-        "creation_date": "2010:11:04 10:36:34",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Kairo BW 1.jpg",
-        "size": [
-            4901,
-            2536
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Amdavad Aerial.jpg",
-        "size": [
-            500,
-            375
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Trieste (28766391880).jpg",
-        "size": [
-            5834,
-            3895
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": null,
-        "creation_date": "2016:08:17 22:37:12",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Trieste (28766391880).jpg",
-        "size": [
-            5834,
-            3895
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_San Francisco from the Marin Headlands in March 2019.jpg",
-        "size": [
-            2048,
-            1200
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2019:03:31 12:18:14",
-        "camera_model": null
-    },
-    {
-        "filename": "img_San Francisco from the Marin Headlands in March 2019.jpg",
-        "size": [
-            2048,
-            1200
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Katowice Rynek.jpg",
-        "size": [
-            4810,
-            3186
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": null,
-        "creation_date": "2016:08:18 16:03:47",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Katowice Rynek.jpg",
-        "size": [
-            4810,
-            3186
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Stuttgart Downtown Sights Collage.png",
-        "size": [
-            837,
-            1460
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "PNG",
-        "orientation": 1,
-        "creation_date": null,
-        "camera_model": null
-    },
-    {
-        "filename": "img_Stuttgart Downtown Sights Collage.png",
-        "size": [
-            837,
-            1460
-        ],
-        "format": "PNG"
-    },
-    {
-        "filename": "img_SalernoCanalone.jpg",
-        "size": [
-            1024,
-            768
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_00 sea towers (April 2018).jpg",
-        "size": [
-            2808,
-            2170
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2018:04:18 10:49:19",
-        "camera_model": 1
-    },
-    {
-        "filename": "img_00 sea towers (April 2018).jpg",
-        "size": [
-            2808,
-            2170
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Stadtbild Kln (50MP).jpg",
-        "size": [
-            8296,
-            6028
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2019:06:05 19:55:36",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Stadtbild Kln (50MP).jpg",
-        "size": [
-            8296,
-            6028
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_-2015-(v2).jpg",
-        "size": [
-            1193,
-            1406
-        ],
-        "heigth": null,
-        "width": null,
+        "mode": "paysage",
         "format": "JPEG",
         "orientation": null,
         "creation_date": null,
-        "camera_model": null
+        "camera_model": 1,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_-2015-(v2).jpg",
+        "filename": "img_Stadtbild Mnchen.jpg",
         "size": [
-            1193,
-            1406
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Omsk Collage 2016.png",
-        "size": [
-            600,
-            850
-        ],
-        "format": "PNG"
-    },
-    {
-        "filename": "img_Tomsk0293.JPG",
-        "size": [
-            3000,
-            2000
+            4861,
+            3285
         ],
         "heigth": null,
         "width": null,
+        "mode": "paysage",
         "format": "JPEG",
         "orientation": 1,
-        "creation_date": "2012:12:25 16:08:38",
-        "camera_model": 1
+        "creation_date": "2013:06:11 22:42:50",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_Tomsk0293.JPG",
+        "filename": "img_Ottawa Montage 2020.jpg",
         "size": [
-            3000,
-            2000
+            1153,
+            2098
         ],
-        "format": "JPEG"
+        "heigth": 863,
+        "width": 1153,
+        "mode": "portrait",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2021:04:17 14:42:28",
+        "camera_model": 1,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_NYC Downtown Manhattan Skyline seen from Paulus Hook 2019-12-20 IMG 7347 FRD (cropped).jpg",
+        "filename": "img_Rathaus-krefeld.jpg",
         "size": [
-            3869,
-            1551
+            788,
+            518
+        ],
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "JPEG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_Tula asv2019-09 img04 Kremlin aerial view.jpg",
+        "size": [
+            5464,
+            3415
+        ],
+        "heigth": 3640,
+        "width": 5464,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2019:12:06 16:24:39",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Sparrenburg innovative sights.JPG",
+        "size": [
+            456,
+            342
         ],
         "heigth": null,
         "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2009:06:11 00:31:33",
+        "camera_model": 2,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Dsseldorf Panorama.jpg",
+        "size": [
+            5999,
+            2571
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
         "format": "JPEG",
         "orientation": null,
-        "creation_date": "2020:02:15 14:54:26",
-        "camera_model": null
+        "creation_date": "2017:10:13 21:29:31",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_NYC Downtown Manhattan Skyline seen from Paulus Hook 2019-12-20 IMG 7347 FRD (cropped).jpg",
+        "filename": "img_.    .jpg",
         "size": [
-            3869,
-            1551
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Szczecin aerial 3a.jpg",
-        "size": [
-            2816,
-            2112
-        ],
-        "heigth": 2112,
-        "width": 2816,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2016:05:12 16:13:45",
-        "camera_model": 2
-    },
-    {
-        "filename": "img_Szczecin aerial 3a.jpg",
-        "size": [
-            2816,
-            2112
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Russian church (37591925970).jpg",
-        "size": [
-            3641,
-            2907
+            2506,
+            1577
         ],
         "heigth": null,
         "width": null,
+        "mode": "paysage",
         "format": "JPEG",
-        "orientation": null,
-        "creation_date": "2017:10:08 00:00:00",
-        "camera_model": null
+        "orientation": 1,
+        "creation_date": "2009:09:15 03:21:16",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_Russian church (37591925970).jpg",
+        "filename": "img_Mannheim-2014-FriedrichsplatzWasserturm-MA-054-059.jpg",
         "size": [
-            3641,
-            2907
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Skyline of Beijing CBD with B-5906 approaching (20211016171955).jpg",
-        "size": [
-            6787,
-            4525
+            9210,
+            2985
         ],
         "heigth": null,
         "width": null,
-        "format": "JPEG",
-        "orientation": null,
-        "creation_date": "2021:10:16 21:27:12",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Skyline of Beijing CBD with B-5906 approaching (20211016171955).jpg",
-        "size": [
-            6787,
-            4525
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Skopje 2014 - Art Bridge.JPG",
-        "size": [
-            3155,
-            1960
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": null,
-        "creation_date": "2014:11:04 17:06:20",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Skopje 2014 - Art Bridge.JPG",
-        "size": [
-            3155,
-            1960
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Milano piazza Duomo.jpg",
-        "size": [
-            1024,
-            768
-        ],
-        "heigth": null,
-        "width": null,
+        "mode": "paysage",
         "format": "JPEG",
         "orientation": 1,
-        "creation_date": "2009:10:20 00:30:16",
-        "camera_model": 2
+        "creation_date": "2014:03:19 23:59:26",
+        "camera_model": 2,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_Milano piazza Duomo.jpg",
-        "size": [
-            1024,
-            768
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Ghent - centre.jpg",
-        "size": [
-            1600,
-            1200
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2001:06:08 08:54:44",
-        "camera_model": 1
-    },
-    {
-        "filename": "img_Ghent - centre.jpg",
-        "size": [
-            1600,
-            1200
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Samara - Port (2008-07-13).jpg",
-        "size": [
-            2244,
-            1683
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2008:07:14 02:22:56",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Samara - Port (2008-07-13).jpg",
-        "size": [
-            2244,
-            1683
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_AmsterdamLuchtfotoBmz.jpg",
-        "size": [
-            740,
-            469
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Blick AC Dom von St Jakob.JPG",
-        "size": [
-            2592,
-            1944
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Raffles Place.jpg",
-        "size": [
-            1600,
-            1066
-        ],
-        "heigth": 1066,
-        "width": 1600,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2012:09:19 21:51:30",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Raffles Place.jpg",
-        "size": [
-            1600,
-            1066
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Sunrise at Bergamo old town Lombardy Italy.jpg",
-        "size": [
-            1024,
-            576
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Novosibirsk 82.96421E 54.98117N.jpg",
-        "size": [
-            1278,
-            882
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2008:05:25 15:35:26",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Novosibirsk 82.96421E 54.98117N.jpg",
-        "size": [
-            1278,
-            882
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Altes Rathaus Bonn.jpg",
-        "size": [
-            6064,
-            5466
-        ],
-        "heigth": 5466,
-        "width": 6064,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2013:05:21 02:44:50",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Altes Rathaus Bonn.jpg",
-        "size": [
-            6064,
-            5466
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_DubaiCollage.jpg",
-        "size": [
-            1024,
-            1603
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Volgograd Montage 2016.png",
+        "filename": "img_Petrozavodsk Collage 2020.png",
         "size": [
             1000,
             1400
         ],
-        "format": "PNG"
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "PNG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
     },
     {
-        "filename": "img_Loire Indre Tours1 tango7174.jpg",
-        "size": [
-            800,
-            600
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Rynek Kociuszki Biaystok (2).jpg",
+        "filename": "img_Athens Montage L.png",
         "size": [
             1000,
-            664
+            1776
         ],
-        "format": "JPEG"
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "PNG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
     },
     {
-        "filename": "img_2010-02-19 3000x2000 chicago skyline.jpg",
+        "filename": "img_DD-canaletto-blick.jpg",
         "size": [
-            3000,
-            2000
+            2098,
+            677
         ],
-        "format": "JPEG"
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2010:07:27 20:20:31",
+        "camera_model": 1,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_Roma dallaereo.JPG",
+        "filename": "img_Independence Palace or Reunification Palace (12110625233).jpg",
+        "size": [
+            4608,
+            2592
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2013:10:19 11:53:18",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Shaniwar Wada Main Gate 01.jpg",
+        "size": [
+            4624,
+            3468
+        ],
+        "heigth": 3468,
+        "width": 4624,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2022:04:21 12:39:15",
+        "camera_model": 1,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Bangkok Montage.png",
+        "size": [
+            1000,
+            1500
+        ],
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "PNG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_Halle-view Zoo.JPG",
+        "size": [
+            4000,
+            3000
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "MPO",
+        "orientation": 1,
+        "creation_date": "2016:08:08 14:59:55",
+        "camera_model": 2,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Burgloewe 16 1a.jpg",
+        "size": [
+            886,
+            591
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2006:05:08 17:43:38",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Concepcion-Chile(001).jpg",
+        "size": [
+            1623,
+            1095
+        ],
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "JPEG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_Calle Dlugie Pobrzeze Gdansk Polonia 2013-05-20 DD 05.jpg",
+        "size": [
+            5418,
+            3288
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": null,
+        "creation_date": "2014:05:11 12:59:07",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_JUBA VIEW.jpg",
+        "size": [
+            960,
+            540
+        ],
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "JPEG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_Veliky Novgorod montage (2015).png",
+        "size": [
+            1000,
+            1400
+        ],
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "PNG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_Hlavn Namestie (35096533142).jpg",
+        "size": [
+            4719,
+            3248
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": null,
+        "creation_date": "2017:06:12 07:10:52",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Homie Montage (2017).jpg",
+        "size": [
+            3658,
+            5120
+        ],
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "JPEG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_Havenwelten berblick Bremerhaven 2013.jpg",
+        "size": [
+            4423,
+            2969
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": null,
+        "creation_date": null,
+        "camera_model": 1,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Bogota bei Nacht.jpg",
+        "size": [
+            1600,
+            1067
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2020:01:09 23:42:01",
+        "camera_model": 2,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Palermo02 flickr.jpg",
+        "size": [
+            2592,
+            1633
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2007:01:27 16:58:36",
+        "camera_model": 2,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_2018-08-10 DE Potsdam Havel Potsdamer Stadtschloss Charlottenhof 05609390 (49952695592).jpg",
+        "size": [
+            5948,
+            3346
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2022:09:24 05:05:02",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_SCW01.JPG",
+        "size": [
+            2272,
+            1704
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2008:07:15 11:46:10",
+        "camera_model": 1,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Stockholm gamlastan etc.jpg",
+        "size": [
+            700,
+            492
+        ],
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "JPEG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_Liffeyeast.jpg",
+        "size": [
+            391,
+            230
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2003:05:05 20:41:10",
+        "camera_model": 2,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_DSC 0357 fhdr.jpg",
+        "size": [
+            3840,
+            2160
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": null,
+        "creation_date": null,
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Sunset Khartoum.jpg",
+        "size": [
+            603,
+            394
+        ],
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "JPEG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_Phnom Penh aerial.jpg",
+        "size": [
+            1280,
+            851
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2005:10:02 18:42:17",
+        "camera_model": 1,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Pskov asv07-2018 Kremlin aerial2.jpg",
+        "size": [
+            4965,
+            3310
+        ],
+        "heigth": 3640,
+        "width": 5464,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2018:12:14 17:55:35",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Aerial view of Essen.jpg",
+        "size": [
+            992,
+            658
+        ],
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "JPEG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_Hanoi Montage.jpg",
+        "size": [
+            1530,
+            1790
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "portrait",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": null,
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Winnipeg Montage 2020.jpg",
+        "size": [
+            1170,
+            2098
+        ],
+        "heigth": 761,
+        "width": 1242,
+        "mode": "portrait",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2020:05:25 13:52:30",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Kochi India.jpg",
+        "size": [
+            893,
+            327
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2007:12:18 22:15:30",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Halifax Skyline.jpg",
+        "size": [
+            768,
+            195
+        ],
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "JPEG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_Tallinna vanalinn 2015.jpg",
+        "size": [
+            2808,
+            1872
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2015:09:29 13:01:20",
+        "camera_model": 2,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_20200809 Taipei Taiwan Skyline.jpg",
+        "size": [
+            2705,
+            2065
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": null,
+        "creation_date": "2020:08:09 13:05:37",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Innsbruck - panoramio (45).jpg",
+        "size": [
+            4667,
+            3111
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2014:07:01 14:56:01",
+        "camera_model": 1,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Nrnberger Burg im Herbst 2013.jpg",
+        "size": [
+            5985,
+            3980
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": null,
+        "creation_date": null,
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Saskatchewan Legislature.jpg",
+        "size": [
+            1280,
+            971
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2006:10:11 22:23:59",
+        "camera_model": 2,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Catania panorama.jpg",
+        "size": [
+            1580,
+            1060
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": null,
+        "creation_date": "2012:11:20 02:40:42",
+        "camera_model": 1,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Gelsenkirchen aug2004 002.jpg",
+        "size": [
+            800,
+            533
+        ],
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "JPEG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_Rijeka-view-2.jpg",
+        "size": [
+            1496,
+            1122
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2007:08:07 19:36:31",
+        "camera_model": 1,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Mnchengladbach mnster.jpg",
         "size": [
             1024,
             768
         ],
-        "heigth": null,
-        "width": null,
+        "heigth": "",
+        "width": "",
+        "mode": "",
         "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2008:06:20 12:40:50",
-        "camera_model": 2
-    },
-    {
-        "filename": "img_Roma dallaereo.JPG",
-        "size": [
-            1024,
-            768
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Royal Palace in Brussels.JPG",
-        "size": [
-            4886,
-            3730
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2013:05:09 11:51:41",
-        "camera_model": 1
-    },
-    {
-        "filename": "img_Royal Palace in Brussels.JPG",
-        "size": [
-            4886,
-            3730
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_KingsCollegeChapelWest.jpg",
-        "size": [
-            1025,
-            768
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Cityscape Berlin.jpg",
-        "size": [
-            4496,
-            2300
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2012:05:22 20:14:15",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Cityscape Berlin.jpg",
-        "size": [
-            4496,
-            2300
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Jerusalem Dome of the rock BW 14.JPG",
-        "size": [
-            3812,
-            2540
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2008:11:10 06:30:08",
-        "camera_model": 2
-    },
-    {
-        "filename": "img_Jerusalem Dome of the rock BW 14.JPG",
-        "size": [
-            3812,
-            2540
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_SA Montage Nima.png",
-        "size": [
-            1150,
-            1750
-        ],
-        "format": "PNG"
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
     },
     {
         "filename": ".png",
@@ -613,1102 +821,678 @@
             479,
             957
         ],
-        "format": "PNG"
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "PNG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
     },
     {
-        "filename": "img_Views of Yekaterinburg from Vysotsky viewpoint - 12.jpg",
+        "filename": "img_Parma dal Duomo settembre 2014-1 (15481932581).jpg",
         "size": [
-            6000,
-            2347
+            5325,
+            3550
         ],
         "heigth": null,
         "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2022:06:04 12:28:17",
-        "camera_model": 1
-    },
-    {
-        "filename": "img_Views of Yekaterinburg from Vysotsky viewpoint - 12.jpg",
-        "size": [
-            6000,
-            2347
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Zagreb (29255640143).jpg",
-        "size": [
-            6016,
-            4016
-        ],
-        "heigth": null,
-        "width": null,
+        "mode": "paysage",
         "format": "JPEG",
         "orientation": null,
-        "creation_date": "2016:09:23 22:23:25",
-        "camera_model": null
+        "creation_date": "2014:10:09 09:45:30",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_Zagreb (29255640143).jpg",
+        "filename": "img_Atlantis Hotel Paradise Island Bahamas.jpg",
         "size": [
-            6016,
-            4016
+            800,
+            600
         ],
-        "format": "JPEG"
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2001:12:11 18:13:49",
+        "camera_model": 1,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_Bern luftaufnahme.png",
+        "filename": "img_Bergbaumuseum Bochum bei Nacht.JPG",
         "size": [
-            728,
-            490
+            4288,
+            2848
         ],
-        "format": "PNG"
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2011:11:17 23:37:28",
+        "camera_model": 2,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_Venice Old Town Lagoon Aerial View.jpg",
+        "filename": "img_Kaliningrad 05-2017 img10 aerial view.jpg",
+        "size": [
+            4314,
+            2696
+        ],
+        "heigth": 3640,
+        "width": 5464,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2017:07:10 05:29:41",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Catedral de San Marcos I Regin de Arica - Chile..jpg",
+        "size": [
+            1280,
+            863
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2012:09:27 17:33:07",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_KielerStadtzentrumLuftaufnahme.jpg",
+        "size": [
+            1024,
+            768
+        ],
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "JPEG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_Duisburg - Schwanentorbrcke 1.jpg",
+        "size": [
+            2000,
+            1170
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": null,
+        "creation_date": null,
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Yerevan coll mix.jpg",
+        "size": [
+            2013,
+            3113
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "portrait",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2008:10:26 13:21:08",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Assumption Cathedral in Smolensk.jpg",
+        "size": [
+            640,
+            480
+        ],
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "JPEG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_Estatua de Johan Ludvig Runeberg Esplanadi Helsinki Finlandia 2012-08-14 DD 01.JPG",
+        "size": [
+            5234,
+            3407
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": null,
+        "creation_date": "2015:02:22 19:35:16",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Wuppertal ansicht.jpg",
+        "size": [
+            1024,
+            768
+        ],
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "JPEG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_City of St. Johns.jpg",
+        "size": [
+            700,
+            467
+        ],
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "JPEG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_Muenster-100725-16079-Lamberti.jpg",
+        "size": [
+            2590,
+            4288
+        ],
+        "heigth": 3872,
+        "width": 2592,
+        "mode": "portrait",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2010:07:26 13:19:59",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Erfurt cathedral and severi church-2.jpg",
+        "size": [
+            3420,
+            2640
+        ],
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "JPEG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_Victoria Montage 2020.jpg",
+        "size": [
+            3000,
+            4706
+        ],
+        "heigth": 5183,
+        "width": 14587,
+        "mode": "portrait",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2021:03:10 15:02:28",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_SB-Rathaus.jpg",
         "size": [
             1024,
             683
         ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Alexandria - Egypt.jpg",
-        "size": [
-            3008,
-            2000
-        ],
-        "heigth": null,
-        "width": null,
+        "heigth": "",
+        "width": "",
+        "mode": "",
         "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2009:03:10 09:54:20",
-        "camera_model": 2
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
     },
     {
-        "filename": "img_Alexandria - Egypt.jpg",
+        "filename": "img_Kaluga city nowadays (collage).jpg",
         "size": [
-            3008,
-            2000
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Lille vue gd place.JPG",
-        "size": [
-            2639,
-            1799
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2013:08:09 01:32:02",
-        "camera_model": 2
-    },
-    {
-        "filename": "img_Lille vue gd place.JPG",
-        "size": [
-            2639,
-            1799
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Collage Landmarks of Montevideo.jpg",
-        "size": [
-            311,
-            582
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": null,
-        "creation_date": null,
-        "camera_model": null
-    },
-    {
-        "filename": "img_Collage Landmarks of Montevideo.jpg",
-        "size": [
-            311,
-            582
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Brussels view from Mont des Arts Brussels Belgium (cropped).jpg",
-        "size": [
-            3788,
-            2274
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2015:03:07 13:35:20",
-        "camera_model": 1
-    },
-    {
-        "filename": "img_Brussels view from Mont des Arts Brussels Belgium (cropped).jpg",
-        "size": [
-            3788,
-            2274
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Islamabad skyline.jpg",
-        "size": [
-            1024,
-            553
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Lausanne img 0585.jpg",
-        "size": [
-            3648,
-            2736
-        ],
-        "heigth": 2736,
-        "width": 3648,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2007:06:02 13:04:50",
-        "camera_model": 1
-    },
-    {
-        "filename": "img_Lausanne img 0585.jpg",
-        "size": [
-            3648,
-            2736
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Urzd miasta.jpg",
-        "size": [
-            1536,
-            2048
-        ],
-        "heigth": 2048,
-        "width": 1536,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2013:10:12 17:15:00",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Urzd miasta.jpg",
-        "size": [
-            1536,
-            2048
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Dortmund Panorama.jpg",
-        "size": [
-            3456,
-            1892
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2011:10:28 20:29:19",
-        "camera_model": 2
-    },
-    {
-        "filename": "img_Dortmund Panorama.jpg",
-        "size": [
-            3456,
-            1892
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Chennai train station.jpg",
-        "size": [
-            3627,
-            2548
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": null,
-        "creation_date": "2012:04:17 10:17:27",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Chennai train station.jpg",
-        "size": [
-            3627,
-            2548
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Karlsruhe asv2022-10 img07 Schloss Karlsruhe.jpg",
-        "size": [
-            6768,
-            3384
-        ],
-        "heigth": 5304,
-        "width": 7952,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2023:01:23 23:56:56",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Karlsruhe asv2022-10 img07 Schloss Karlsruhe.jpg",
-        "size": [
-            6768,
-            3384
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_2017-05-27 Plac Zamkowy w Warszawie 1.jpg",
-        "size": [
-            5184,
-            3456
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": null,
-        "creation_date": "2017:12:30 16:26:18",
-        "camera_model": null
-    },
-    {
-        "filename": "img_2017-05-27 Plac Zamkowy w Warszawie 1.jpg",
-        "size": [
-            5184,
-            3456
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Duquesne Incline (50076338942) (cropped).jpg",
-        "size": [
-            1452,
-            647
-        ],
-        "heigth": 3664,
-        "width": 4958,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2020:06:26 13:15:26",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Duquesne Incline (50076338942) (cropped).jpg",
-        "size": [
-            1452,
-            647
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Grenoble 01.JPG",
-        "size": [
-            3328,
-            1872
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2009:04:28 18:18:59",
-        "camera_model": 2
-    },
-    {
-        "filename": "img_Grenoble 01.JPG",
-        "size": [
-            3328,
-            1872
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Genova panorama centro storico da villetta Di Negro.jpg",
-        "size": [
-            9864,
-            2600
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2014:04:17 21:13:57",
-        "camera_model": 1
-    },
-    {
-        "filename": "img_Genova panorama centro storico da villetta Di Negro.jpg",
-        "size": [
-            9864,
-            2600
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Place lazare goujon.jpg",
-        "size": [
-            733,
-            490
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2010:01:23 16:00:04",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Place lazare goujon.jpg",
-        "size": [
-            733,
-            490
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Saint Basils Cathedral and the Red Square.jpg",
-        "size": [
-            2499,
-            1406
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Perm asv2019-05 img50 Gorky Park.jpg",
-        "size": [
-            7952,
-            4970
-        ],
-        "heigth": 5304,
-        "width": 7952,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2019:07:17 04:04:06",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Perm asv2019-05 img50 Gorky Park.jpg",
-        "size": [
-            7952,
-            4970
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Sao Paulo Skyline in Brazil.jpg",
-        "size": [
-            1024,
-            682
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2006:02:01 18:06:34",
-        "camera_model": 1
-    },
-    {
-        "filename": "img_Sao Paulo Skyline in Brazil.jpg",
-        "size": [
-            1024,
-            682
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Peter  Paul fortress in SPB 03.jpg",
-        "size": [
-            3600,
-            2384
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": null,
-        "creation_date": "2012:09:11 21:48:07",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Peter  Paul fortress in SPB 03.jpg",
-        "size": [
-            3600,
-            2384
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Toronto Montage 2020.jpg",
-        "size": [
-            1920,
-            3111
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Lakhota Tower in evening by Rangilo.JPG",
-        "size": [
-            4521,
-            2899
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2012:09:05 19:58:15",
-        "camera_model": 2
-    },
-    {
-        "filename": "img_Lakhota Tower in evening by Rangilo.JPG",
-        "size": [
-            4521,
-            2899
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Geneva from Mount Salve.jpg",
-        "size": [
-            2194,
-            600
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2009:04:20 21:13:30",
-        "camera_model": 2
-    },
-    {
-        "filename": "img_Geneva from Mount Salve.jpg",
-        "size": [
-            2194,
-            600
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Rathaus HN.JPG",
-        "size": [
-            2048,
-            1536
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2004:10:16 15:29:22",
-        "camera_model": 2
-    },
-    {
-        "filename": "img_Rathaus HN.JPG",
-        "size": [
-            2048,
-            1536
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Vista de Tiflis Georgia 2016-09-29 DD 67-71 PAN.jpg",
-        "size": [
-            16348,
-            3999
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": null,
-        "creation_date": "2016:11:24 21:24:31",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Vista de Tiflis Georgia 2016-09-29 DD 67-71 PAN.jpg",
-        "size": [
-            16348,
-            3999
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Vilnius Modern Skyline Lithuania - Diliff.jpg",
-        "size": [
-            6152,
-            3101
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": null,
-        "creation_date": null,
-        "camera_model": null
-    },
-    {
-        "filename": "img_Vilnius Modern Skyline Lithuania - Diliff.jpg",
-        "size": [
-            6152,
-            3101
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Panorama modena 09.jpg",
-        "size": [
-            3968,
-            2976
-        ],
-        "heigth": 2976,
-        "width": 3968,
-        "format": "JPEG",
-        "orientation": 0,
-        "creation_date": "2018:08:15 09:58:32",
-        "camera_model": 1
-    },
-    {
-        "filename": "img_Panorama modena 09.jpg",
-        "size": [
-            3968,
-            2976
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_19-03-03-Maribor-RalfR-DJI 0444.jpg",
-        "size": [
-            4048,
-            3032
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": null,
-        "creation_date": "2019:03:03 20:12:58",
-        "camera_model": null
-    },
-    {
-        "filename": "img_19-03-03-Maribor-RalfR-DJI 0444.jpg",
-        "size": [
-            4048,
-            3032
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Plovdiv mosaic 1.jpg",
-        "size": [
-            790,
-            1002
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": null,
-        "creation_date": null,
-        "camera_model": null
-    },
-    {
-        "filename": "img_Plovdiv mosaic 1.jpg",
-        "size": [
-            790,
-            1002
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Padua - Prato della Valle.jpg",
-        "size": [
-            7360,
-            4912
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2017:03:22 19:00:46",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Padua - Prato della Valle.jpg",
-        "size": [
-            7360,
-            4912
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Ljubljana Montage 2.png",
-        "size": [
-            551,
+            749,
             735
         ],
-        "format": "PNG"
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "JPEG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
     },
     {
-        "filename": "img_Aerial view of Krasnoyarsk 1.jpg",
+        "filename": "img_Yarolslav colage.png",
         "size": [
-            2272,
-            1704
+            555,
+            782
+        ],
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "PNG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_Kuala Lumpur with Petronas Towers.jpg",
+        "size": [
+            564,
+            361
+        ],
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "JPEG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_Flug DortmundTimioara 09 Chemnitz.jpg",
+        "size": [
+            3244,
+            2293
         ],
         "heigth": null,
         "width": null,
+        "mode": "paysage",
         "format": "JPEG",
         "orientation": 1,
-        "creation_date": "2006:11:12 16:08:52",
-        "camera_model": 1
+        "creation_date": "2021:02:28 14:14:57",
+        "camera_model": 2,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_Aerial view of Krasnoyarsk 1.jpg",
+        "filename": "img_Collage Verona.jpg",
         "size": [
-            2272,
-            1704
+            5120,
+            3840
         ],
-        "format": "JPEG"
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "JPEG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
     },
     {
-        "filename": "img_Zicht op Zwolle Centrum.jpg",
+        "filename": "img_Nhathocoquangbinh.jpg",
         "size": [
-            2560,
-            1920
+            1024,
+            683
         ],
-        "heigth": 1920,
-        "width": 2560,
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "JPEG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_Chteau Frontenac Quebec city Canada.jpg",
+        "size": [
+            2858,
+            2960
+        ],
+        "heigth": 2960,
+        "width": 3000,
+        "mode": "portrait",
         "format": "JPEG",
         "orientation": 1,
-        "creation_date": "2011:07:12 19:41:08",
-        "camera_model": 1
+        "creation_date": "2020:10:28 07:51:30",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_Zicht op Zwolle Centrum.jpg",
+        "filename": "img_Oberhausen - Neue MitteGasometer (Aussichtsturm Knappenhalde) 01 ies.jpg",
         "size": [
-            2560,
-            1920
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_01. Panorama de Lyon pris depuis le toit de la Basilique de Fourvire.jpg",
-        "size": [
-            7798,
-            2800
+            5616,
+            3744
         ],
         "heigth": null,
         "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2012:12:01 16:40:40",
+        "camera_model": 2,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Caracas desde el vila.jpg",
+        "size": [
+            3456,
+            2592
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2010:06:23 16:48:15",
+        "camera_model": 2,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Concepcion vista de Chepen (13654156695).jpg",
+        "size": [
+            4000,
+            3000
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2014:03:22 02:12:01",
+        "camera_model": 2,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Aerial view of Magdeburg.jpg",
+        "size": [
+            3970,
+            2820
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
         "format": "JPEG",
         "orientation": null,
         "creation_date": null,
-        "camera_model": 1
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_01. Panorama de Lyon pris depuis le toit de la Basilique de Fourvire.jpg",
+        "filename": "img_Luxemburg.jpg",
         "size": [
-            7798,
-            2800
+            2592,
+            1952
         ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_DCmontage2.jpg",
-        "size": [
-            1230,
-            1680
-        ],
-        "heigth": null,
-        "width": null,
+        "heigth": 1952,
+        "width": 2592,
+        "mode": "paysage",
         "format": "JPEG",
         "orientation": 1,
-        "creation_date": "2008:09:20 15:23:50",
-        "camera_model": null
+        "creation_date": "2020:03:11 07:26:25",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_DCmontage2.jpg",
+        "filename": "img_Dusk skyline Regina SK.jpg",
         "size": [
-            1230,
-            1680
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Berlaymont building (DSCF7542-DSCF7548).jpg",
-        "size": [
-            6522,
-            4053
+            2560,
+            1920
         ],
         "heigth": null,
         "width": null,
+        "mode": "paysage",
         "format": "JPEG",
         "orientation": 1,
-        "creation_date": "2020:08:11 21:57:45",
-        "camera_model": null
+        "creation_date": "2010:03:28 23:27:48",
+        "camera_model": 2,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_Berlaymont building (DSCF7542-DSCF7548).jpg",
+        "filename": "img_Regina Saskatchewan skyline.jpg",
         "size": [
-            6522,
-            4053
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Turin Montage.png",
-        "size": [
-            2000,
-            3079
-        ],
-        "format": "PNG"
-    },
-    {
-        "filename": "img_Rhine Rhein Basel 2006 871.JPG",
-        "size": [
-            3008,
-            2000
+            3504,
+            2336
         ],
         "heigth": null,
         "width": null,
+        "mode": "paysage",
         "format": "JPEG",
         "orientation": 1,
-        "creation_date": "2006:09:13 12:43:02",
-        "camera_model": 2
+        "creation_date": "2008:03:26 10:41:38",
+        "camera_model": 1,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_Rhine Rhein Basel 2006 871.JPG",
+        "filename": "img_2019 - Schweriner Schloss - 1.jpg",
         "size": [
-            3008,
-            2000
+            3999,
+            2439
         ],
-        "format": "JPEG"
+        "heigth": 3049,
+        "width": 4999,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2019:09:18 00:12:16",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_Novosibirsk view.jpg",
+        "filename": "img_Sana03 flickr.jpg",
         "size": [
-            1439,
-            976
+            1200,
+            900
         ],
         "heigth": null,
         "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 0,
+        "creation_date": "2006:12:24 10:55:01",
+        "camera_model": 1,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Schlossbergblick Freiburg i. B. 14.jpg",
+        "size": [
+            2534,
+            1425
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
+        "format": "JPEG",
+        "orientation": 1,
+        "creation_date": "2020:05:27 21:25:25",
+        "camera_model": 1,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
+    },
+    {
+        "filename": "img_Reykjavik Main Image.jpg",
+        "size": [
+            3923,
+            5479
+        ],
+        "heigth": "",
+        "width": "",
+        "mode": "",
+        "format": "JPEG",
+        "orientation": "",
+        "creation_date": "",
+        "camera_model": "",
+        "country": "",
+        "most_RGB_color": "",
+        "tags": ""
+    },
+    {
+        "filename": "img_Plaza del Ayuntamiento Augsburgo Alemania 2021-06-04 DD 32-34 HDR.jpg",
+        "size": [
+            7430,
+            4738
+        ],
+        "heigth": null,
+        "width": null,
+        "mode": "paysage",
         "format": "JPEG",
         "orientation": null,
-        "creation_date": "2011:07:08 15:47:44",
-        "camera_model": null
+        "creation_date": "2021:11:01 19:39:41",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_Novosibirsk view.jpg",
+        "filename": "img_MK29818 Wiesbaden.jpg",
         "size": [
-            1439,
-            976
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Landungsbrcken Hamburg.jpg",
-        "size": [
-            5594,
-            3590
+            2764,
+            1555
         ],
         "heigth": null,
         "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2013:10:18 23:34:13",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Landungsbrcken Hamburg.jpg",
-        "size": [
-            5594,
-            3590
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Boston Financial District skyline.jpg",
-        "size": [
-            2196,
-            1680
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2006:06:27 08:34:48",
-        "camera_model": 2
-    },
-    {
-        "filename": "img_Boston Financial District skyline.jpg",
-        "size": [
-            2196,
-            1680
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Atomium Brssel 2.jpg",
-        "size": [
-            960,
-            638
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2017:12:08 15:12:37",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Atomium Brssel 2.jpg",
-        "size": [
-            960,
-            638
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Vue sud-ouest de la place du parlement de Bretagne Rennes France.jpg",
-        "size": [
-            5633,
-            3755
-        ],
-        "heigth": null,
-        "width": null,
+        "mode": "paysage",
         "format": "JPEG",
         "orientation": null,
-        "creation_date": "2013:05:12 10:57:36",
-        "camera_model": null
+        "creation_date": "2014:10:03 22:38:18",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_Vue sud-ouest de la place du parlement de Bretagne Rennes France.jpg",
-        "size": [
-            5633,
-            3755
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_NN 01-09-2021 06.jpg",
-        "size": [
-            4608,
-            3072
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2021:09:12 21:52:53",
-        "camera_model": null
-    },
-    {
-        "filename": "img_NN 01-09-2021 06.jpg",
-        "size": [
-            4608,
-            3072
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_KAZ Collage 2015.png",
-        "size": [
-            1000,
-            1400
-        ],
-        "format": "PNG"
-    },
-    {
-        "filename": "img_Montagem de Lisboa.png",
-        "size": [
-            504,
-            680
-        ],
-        "format": "PNG"
-    },
-    {
-        "filename": "img_Heilbronn Innenstadt u Wartberg 20050918.jpg",
-        "size": [
-            1504,
-            1000
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2005:09:18 14:02:01",
-        "camera_model": 2
-    },
-    {
-        "filename": "img_Heilbronn Innenstadt u Wartberg 20050918.jpg",
-        "size": [
-            1504,
-            1000
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Los Angeles with Mount Baldy.jpg",
-        "size": [
-            8267,
-            3873
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": null,
-        "creation_date": "2019:02:08 10:22:20",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Los Angeles with Mount Baldy.jpg",
-        "size": [
-            8267,
-            3873
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Hoge der Aa2.jpg",
+        "filename": "img_Florence 2009 - 0946.jpg",
         "size": [
             3008,
             2000
         ],
-        "heigth": null,
-        "width": null,
+        "heigth": 2000,
+        "width": 3008,
+        "mode": "paysage",
         "format": "JPEG",
         "orientation": 1,
-        "creation_date": "2008:03:18 17:29:45",
-        "camera_model": 2
+        "creation_date": "2012:03:01 14:14:36",
+        "camera_model": 2,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_Hoge der Aa2.jpg",
+        "filename": "img_Theodor-Heuss-Brcke 1902231957 ako.jpg",
         "size": [
-            3008,
-            2000
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Sebastian Glapinski 2017 (Unsplash).jpg",
-        "size": [
-            6016,
-            4016
-        ],
-        "heigth": 4016,
-        "width": 6016,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2016:12:11 10:19:51",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Sebastian Glapinski 2017 (Unsplash).jpg",
-        "size": [
-            6016,
-            4016
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Oslo newer montage 2013.png",
-        "size": [
-            720,
-            1037
-        ],
-        "format": "PNG"
-    },
-    {
-        "filename": "img_Perm Russia.jpg",
-        "size": [
-            1024,
-            768
-        ],
-        "heigth": 768,
-        "width": 1024,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2016:01:06 02:18:15",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Perm Russia.jpg",
-        "size": [
-            1024,
-            768
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Big Manila.jpg",
-        "size": [
-            4078,
-            1094
+            6720,
+            4480
         ],
         "heigth": null,
         "width": null,
+        "mode": "paysage",
         "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2008:11:28 13:47:32",
-        "camera_model": null
+        "orientation": null,
+        "creation_date": "2019:03:03 17:14:19",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     },
     {
-        "filename": "img_Big Manila.jpg",
+        "filename": "img_Dar es Salaam before dusk.jpg",
         "size": [
-            4078,
-            1094
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Petn Tower View IMG 3020.JPG",
-        "size": [
-            3456,
-            2304
+            2332,
+            1250
         ],
         "heigth": null,
         "width": null,
+        "mode": "paysage",
         "format": "JPEG",
         "orientation": 1,
-        "creation_date": "2017:06:15 16:07:15",
-        "camera_model": 2
-    },
-    {
-        "filename": "img_Petn Tower View IMG 3020.JPG",
-        "size": [
-            3456,
-            2304
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_Stare Miasto w Poznaniu.jpg",
-        "size": [
-            3947,
-            2126
-        ],
-        "heigth": null,
-        "width": null,
-        "format": "JPEG",
-        "orientation": 1,
-        "creation_date": "2016:08:27 14:58:17",
-        "camera_model": null
-    },
-    {
-        "filename": "img_Stare Miasto w Poznaniu.jpg",
-        "size": [
-            3947,
-            2126
-        ],
-        "format": "JPEG"
-    },
-    {
-        "filename": "img_BangaloreMontage.png",
-        "size": [
-            441,
-            905
-        ],
-        "format": "PNG"
+        "creation_date": "2009:06:02 06:35:01",
+        "camera_model": null,
+        "country": null,
+        "most_RGB_color": "",
+        "tags": []
     }
 ]
